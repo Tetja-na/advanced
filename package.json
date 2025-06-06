@@ -1,0 +1,26 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "test für meine weiteren Hausaufgaben",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetja-na/advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetja-na/advanced/issues"
+  },
+  "homepage": "https://github.com/Tetja-na/advanced#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {
+    "axios": "^1.9.0"
+  }
+}
