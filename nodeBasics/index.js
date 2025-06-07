@@ -1,3 +1,3 @@
 import chalk from 'chalk';
-console.log (chalk.red('Hello') + ' World'+ chalk.red('!'));    
+console.log (chalk.red('Hello') + ' Worldd'+ chalk.red('!'));    
 
